@@ -10,6 +10,5 @@ To run this application, you will need to run the Bandwidth_Monitor.py file
 This is a python project that seemed fun to make
 
 ## What did I learn?
-
 * Learned how to record network bandwidth 
 * Learned how to present information on a graph
